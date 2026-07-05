@@ -96,3 +96,9 @@ Android, iOS, Web, Windows, macOS, and Linux project scaffolding are all include
 ## 📖 About
 
 GrowLens was developed as a Final Year Project to explore how mobile apps and machine learning can make plant care more accessible to home gardeners — from diagnosing sick plants to planning a new garden layout.
+
+## Demo
+
+Watch a complete walkthrough of the platform:
+
+🎥 **Youtube Demo:** https://www.youtube.com/watch?v=l6P9Nj5Tmgs
